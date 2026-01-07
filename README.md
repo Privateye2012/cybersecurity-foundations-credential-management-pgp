@@ -43,4 +43,3 @@ All sensitive information has been **sanitized**. The repository contains **exam
 - Applied the principle of least disclosure
 
 ---
-## Repository Structure
