@@ -44,4 +44,3 @@ All sensitive information has been **sanitized**. The repository contains **exam
 
 ---
 
-## Repository Structure
